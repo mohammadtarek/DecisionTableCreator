@@ -1,0 +1,24 @@
+C:\Users\oddal\source\repos\QAT Project\QAT Project\bin\Debug\QAT Project.exe
+C:\Users\oddal\source\repos\QAT Project\QAT Project\bin\Debug\QAT Project.exe.config
+C:\Users\oddal\source\repos\QAT Project\QAT Project\obj\Debug\QAT Project.csprojAssemblyReference.cache
+C:\Users\oddal\source\repos\QAT Project\QAT Project\obj\Debug\QAT_Project.Form1.resources
+C:\Users\oddal\source\repos\QAT Project\QAT Project\obj\Debug\QAT_Project.Form2.resources
+C:\Users\oddal\source\repos\QAT Project\QAT Project\obj\Debug\QAT_Project.Form3.resources
+C:\Users\oddal\source\repos\QAT Project\QAT Project\obj\Debug\QAT_Project.Properties.Resources.resources
+C:\Users\oddal\source\repos\QAT Project\QAT Project\obj\Debug\QAT Project.csproj.GenerateResource.cache
+C:\Users\oddal\source\repos\QAT Project\QAT Project\obj\Debug\QAT Project.csproj.CoreCompileInputs.cache
+C:\Users\oddal\source\repos\QAT Project\QAT Project\obj\Debug\QAT Project.exe
+C:\Users\oddal\source\repos\QAT Project\QAT Project\obj\Debug\QAT Project.pdb
+C:\Users\oddal\source\repos\QAT Project\QAT Project\bin\Debug\QAT Project.pdb
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\bin\Debug\QAT Project.exe.config
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\bin\Debug\QAT Project.exe
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\bin\Debug\QAT Project.pdb
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\obj\Debug\QAT Project.csprojAssemblyReference.cache
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\obj\Debug\QAT_Project.Form1.resources
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\obj\Debug\QAT_Project.Form2.resources
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\obj\Debug\QAT_Project.Form3.resources
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\obj\Debug\QAT_Project.Properties.Resources.resources
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\obj\Debug\QAT Project.csproj.GenerateResource.cache
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\obj\Debug\QAT Project.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\obj\Debug\QAT Project.exe
+C:\Users\Mohammad\Desktop\QAT Project\QAT Project\obj\Debug\QAT Project.pdb
